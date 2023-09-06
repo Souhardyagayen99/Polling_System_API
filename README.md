@@ -23,7 +23,7 @@ Task: Need to create an API where anyone can create questions with options and a
 
 ## Folder Structure
 ```
-CSV_Upload/
+Polling System API/
 |── |config/
 │   |      ├── mongoose.js
 |   |
